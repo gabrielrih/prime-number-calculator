@@ -1,4 +1,4 @@
-# setrem-parallel-programming
+# prime-number-calculator
 
 ## Index
 - [Purpose](#purpose)
